@@ -8,7 +8,7 @@
 
 ### 1. Repozitoriyani klonlash
 ```bash
-git clone https://github.com/username/ai-agents-course.git
+git clone git@github.com:EldorToptal/ai_agent.git
 cd ai-agents-course
 ```
 
