@@ -20,3 +20,8 @@ pillow
 fastapi
 python-telegram-bot
 streamlit
+
+soundfile
+kokoro
+pygame
+ollama
